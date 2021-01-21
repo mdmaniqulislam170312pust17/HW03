@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: cadetblue;
+    text-align: center;
+    height: 100px;
+    width: 300px;
+}
+h2{
+    color: darkgreen;
+    background-color: cornflowerblue;
+}
+h3{
+    color: darkred;
+    text-align: center;
+}
